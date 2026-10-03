@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Project-generated files
+baseline.json
+logs/security.log
+
+# Personal/test files
+protected_files/*
+!protected_files/.gitkeep
+
+# Virtual environment
+venv/
+.venv/
